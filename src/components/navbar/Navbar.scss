@@ -1,0 +1,9 @@
+.navbar-custom {
+  ul {
+    li {
+      &:hover {
+        cursor: pointer;
+      }
+    }
+  }
+}
